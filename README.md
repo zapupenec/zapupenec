@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone, I'm Vitalii Ramazanov 👋
 
 <!--
 **zapupenec/zapupenec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
